@@ -1,0 +1,10 @@
+Dea Digitalis: Startseite (Paket für GitHub Pages)
+
+Dateien
+  index.html, impressum.html, datenschutz.html, style.css, logo.svg, favicon.svg, fonts/
+  CNAME          enthält deadigitalis.de (verbindet die Domain mit GitHub Pages)
+  .nojekyll      leere Datei, sorgt dafür, dass GitHub die Dateien unverändert ausliefert
+
+VOR DER VERÖFFENTLICHUNG
+  1. datenschutz.html: gelb markierte Stelle prüfen (Datenübermittlung USA), danach den gelben ENTWURF-Kasten löschen.
+  2. Impressum und Datenschutzerklärung von einer Fachperson prüfen lassen.
