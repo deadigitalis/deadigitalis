@@ -31,3 +31,6 @@ footer a{margin:0 10px;text-underline-offset:3px}
 .ph{background:var(--y);color:#2B0A18;padding:0 6px;border-radius:4px;font-weight:600}
 .banner{background:var(--y);color:#2B0A18;font-weight:600;padding:10px 16px;border-radius:12px;margin-bottom:24px}
 @media (prefers-reduced-motion:no-preference){.logo{animation:wiege 6s ease-in-out infinite;transform-origin:50% 0}@keyframes wiege{0%,100%{transform:rotate(-2.5deg)}50%{transform:rotate(2.5deg)}}}
+
+.legal ~ footer{position:static;padding:8px 20px 40px}
+.legal{padding-bottom:24px}
